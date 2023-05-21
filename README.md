@@ -5,7 +5,7 @@ Title: Flight Delay Prediction using Machine Learning Techniques
 Project Description:
 This project aims to develop a machine learning model for predicting the time of delay for each flight. The main objective is to assist travelers, airlines, and travel companies in managing their schedules more efficiently by providing accurate predictions of flight delays.
 
-The project is implemented as a GitHub repository, allowing for easy collaboration, version control, and accessibility for other developers and researchers interested in the field of flight delay prediction.
+The project is implemented as a GitHub repository, allowing for easy collaboration, version control, and accessibility.
 
 Key Features:
 
